@@ -37,7 +37,7 @@ Bienvenidos! Soy estudiante de la Licenciatura en Ciencias de la Computación en
   | touch  | Crea un archivo                  |
   | pwd    | Muestra ruta de donde estamos    |
 
-  #### 2 comandos 'alias' utiles
+  #### 2 comandos 'alias' útiles
 
   |Comando | Descripción                                            |
   |--------|--------------------------------------------------------|
