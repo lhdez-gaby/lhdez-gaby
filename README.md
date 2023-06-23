@@ -26,20 +26,3 @@ Bienvenidos! Soy estudiante de la Licenciatura en Ciencias de la Computación en
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   -->
-
-#### 5 comandos de Linux
-
-  |Comando | Descripción                      |
-  |--------|----------------------------------|
-  | ls     | Lista los directorios y archivos |
-  | mkdir  | Crea un nuevo directorio         |
-  | cd     | Cambio entre directorios         |
-  | touch  | Crea un archivo                  |
-  | pwd    | Muestra ruta de donde estamos    |
-
-  #### 2 comandos 'alias' útiles
-
-  |Comando | Descripción                                            |
-  |--------|--------------------------------------------------------|
-  | cl     | clear                                                  | 
-  | cdjs   | Lleva a ruta donde del directorio JsBootcamp(Personal) |
